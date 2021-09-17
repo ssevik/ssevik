@@ -9,11 +9,16 @@
 ___
 
 
+
+### Связаться со мной:
+[**Telegram**](https://t.me/severinSeva)
+
+
+
+
 ### Языки и инструменты:
  <img align="left" width="32px" src="./icon/icons8-visual-studio-code-2019.svg" alt="vs-code">
 <img align="left" width="32px" src="./icon/icons8-html-5.svg" alt="html">
  <img align="left" width="32px" src="./icon/icons8-css3.svg" alt="css3">
   <img align="left" width="32px" src="./icon/icons8-javascript.svg" alt="javascript">
-  
-### Связаться со мной:
-[**Telegram**] (https://t.me/severinSeva)
+
