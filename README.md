@@ -1,16 +1,19 @@
-### Hi there 👋
+# :wave: Привет! Меня зовут Артем и я frontend - разработчик.
+## Обо мне:
+:point_right: Я амбициозный и  хочу личного роста (изучять новые для себя технологии и стать ценным разработчиком).
 
-<!--
-**ssevik/ssevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:point_right: На данный момент обучаюсь на курсах на Full Stack developer.
 
-Here are some ideas to get you started:
+:point_right: Буду рад дельному совету.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+
+### Языки и инструменты:
+ <img align="left" width="32px" src="./icon/icons8-visual-studio-code-2019.svg" alt="vs-code">
+<img align="left" width="32px" src="./icon/icons8-html-5.svg" alt="html">
+ <img align="left" width="32px" src="./icon/icons8-css3.svg" alt="css3">
+  <img align="left" width="32px" src="./icon/icons8-javascript.svg" alt="javascript">
+  
+### Связаться со мной:
+[**Telegram**] (https://t.me/severinSeva)
