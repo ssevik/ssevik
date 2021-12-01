@@ -8,7 +8,7 @@
 
 ___
 
-
+![alt text](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
 ### Связаться со мной:
 [**Telegram**](https://t.me/severinSeva)
