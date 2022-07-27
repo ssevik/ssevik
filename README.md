@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### 👋 Hi, my name is Artem.
+# 👋 Hi, my name is Artem.
 
 ## About me:
 
@@ -16,6 +16,8 @@
 [**Telegram**](https://t.me/severinSeva)
 
 ### Языки и инструменты:
+
+![html5]https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html
 
  <img align="left" width="32px" src="./icon/icons8-visual-studio-code-2019.svg" alt="vs-code">
 <img align="left" width="32px" src="./icon/icons8-html-5.svg" alt="html">
