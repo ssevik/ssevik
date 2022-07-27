@@ -1,24 +1,23 @@
-# :wave: Привет! Меня зовут Артем и я frontend - разработчик.
-## Обо мне:
-:point_right: Я амбициозный и  хочу личного роста (изучять новые для себя технологии и стать ценным разработчиком).
+<!-- @format -->
 
-:point_right: На данный момент обучаюсь на курсах на Full Stack developer.
+### 👋 Hi, my name is Artem.
 
-:point_right: Буду рад дельному совету.
+## About me:
 
-___
+👉 I'm a front-end developer!
+🤩 I am looking for a good company and my dream team to improve my skills and grow up.
+🧠 My basic stack is HTML, CSS, JavaScript.
+💪 I am open to new knowledge!
 
-
+---
 
 ### Связаться со мной:
+
 [**Telegram**](https://t.me/severinSeva)
 
-
-
-
 ### Языки и инструменты:
+
  <img align="left" width="32px" src="./icon/icons8-visual-studio-code-2019.svg" alt="vs-code">
 <img align="left" width="32px" src="./icon/icons8-html-5.svg" alt="html">
  <img align="left" width="32px" src="./icon/icons8-css3.svg" alt="css3">
   <img align="left" width="32px" src="./icon/icons8-javascript.svg" alt="javascript">
-
